@@ -75,10 +75,10 @@ function Main() {
                 <h1 className=' text-4xl font-normal pl-8 text-white '>OUR ADVANTAGES</h1>
             </div>
             <div className=' w-[97%] flex  gap-3 overflow-hidden mt-3'>
-                <div className=' w-1/2 h-[250px] overflow-hidden   '>
+                <div className=' w-1/2 h-62.5 overflow-hidden   '>
                     <img className=' w-full h-full object-cover object-cente rounded-md  ' src={image3} alt="" />
                 </div>
-                <div className=' w-1/2 h-[250px] flex flex-col gap-2 '>
+                <div className=' w-1/2 h-62.5 flex flex-col gap-2 '>
                     <div className=' w-full bg-[#1E1E1E]  rounded-md p-5 text-white h-1/2  relative '>
                         <h4 className=' text-[13px] '>INDEPENDENT DESIGNER</h4>
                         <p className=' text-[9px] pt-2 '>Fashion blends comfort, confidence, and <br /> creativity, turning simple fabrics into  <br /> expressive styles that reflect personal <br /> identity, mood, and modern lifestyle choices</p>
@@ -98,7 +98,7 @@ function Main() {
                 </div>
             </div>
             <div className=' w-[97%] flex  gap-3 overflow-hidden mt-3'>
-                <div className=' w-1/2 h-[250px] flex flex-col gap-2 '>
+                <div className=' w-1/2 h-62.5 flex flex-col gap-2 '>
                     <div className=' w-full bg-[#1E1E1E]  rounded-md p-5 text-white h-1/2  relative '>
                         <h4 className=' text-[13px] '>INDEPENDENT DESIGNER</h4>
                         <p className=' text-[9px] pt-2 '>Fashion blends comfort, confidence, and <br /> creativity, turning simple fabrics into  <br /> expressive styles that reflect personal <br /> identity, mood, and modern lifestyle choices</p>
@@ -116,7 +116,7 @@ function Main() {
                         </div>
                     </div>
                 </div>
-                <div className=' w-1/2 h-[250px] overflow-hidden   '>
+                <div className=' w-1/2 h-62.5 overflow-hidden   '>
                     <img className=' w-full h-full object-cover object-cente rounded-md  ' src={image4} alt="" />
                 </div>
             </div>
